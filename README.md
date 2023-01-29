@@ -12,10 +12,10 @@ The backend should run on port 4000 now and MongoDB should be connected\
   4.1 `npm install`\
   4.2 `npm start`
 
-This should launch the React application frontend on: http://localhost:3000 \
+This should launch the React application frontend on: http://localhost:3000 
 
 
-## npm start \
+## npm start 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
