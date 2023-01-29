@@ -6,7 +6,7 @@ To run the project:\
   3.1 `npm install`\
   3.2 `node server.js`
 
-The backend should run on port 4000 now and MongoDB should be connected\
+The backend should run on port 4000 now and MongoDB should be connected
 
 4.Go to the frontend folder and run:\
   4.1 `npm install`\
