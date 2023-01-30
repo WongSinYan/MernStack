@@ -1,7 +1,7 @@
 # MernStack
-To run the project:\
-1. Clone this repository into an empty directory.\
-2. Start a new MongoDB database and create a new tool collection.\
+To run the project:
+1. Clone this repository into an empty directory.
+2. Start a new MongoDB database and create a new tool collection.
 3. Go to the backend folder and run:\
   3.1 `npm install`\
   3.2 `node server.js`
